@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class ZooManagement {
     int nbrCages = 20;
     String zooName = "myZoo";
+    //test
 
     public static void main(String[] args) {
         //Instruction 1
